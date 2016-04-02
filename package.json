@@ -1,0 +1,14 @@
+{
+  "name": "rename-bilo",
+  "version": "1.0.0",
+  "description": "Scripts to correct test data for bilo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "topcbl"
+  },
+  "author": "topcbl",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "0.4.16"
+  }
+}
